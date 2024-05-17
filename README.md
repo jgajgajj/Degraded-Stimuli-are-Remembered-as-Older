@@ -1,4 +1,4 @@
-# Defraded Stimuli are Remembered as Older
+# Degraded Stimuli are Remembered as Older
 Stimuli (Pictures files) + Dataset (Raw Data)
 
 Gonzalez-Alvarez, Julio;
